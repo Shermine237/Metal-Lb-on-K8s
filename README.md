@@ -33,7 +33,7 @@ kubectl apply -f - -n kube-system
 ## Case 1 : Installation by manifest
 To install MetalLB, apply the manifest:
 ```bash
-kubectl apply -f https://raw.githubusercontent.com/metallb/metallb/v0.14.8/config/manifests/metallb-native.yaml
+kubectl apply -f https://raw.githubusercontent.com/metallb/metallb/v0.14.9/config/manifests/metallb-native.yaml
 ```
 ## Case 2 : Installation with Helm
 You can install MetalLB with Helm by using the Helm chart repository:
