@@ -62,8 +62,8 @@ metadata:
 ```
 Apply with:
 ```bash
-kubectl apply -f first-pool.ym
-kubectl apply -f l2advertissement.ym
+kubectl apply -f first-pool.yml
+kubectl apply -f l2advertissement.yml
 ```
 
 ## Usage
